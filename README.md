@@ -44,7 +44,11 @@
 ## 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://gh-heat.anishroy.com/api/siz09/svg?theme=accent&darkMode=true" alt="siz09's GitHub Contributions Heatmap" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siz09/Siz09/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siz09/Siz09/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Siz09/Siz09/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
