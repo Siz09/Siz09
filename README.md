@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sijan Maharjan</h1>
-<h3 align="center">Software Developer | ICT Undergraduate | QA-minded Engineer</h3>
+<h3 align="center">Software Developer | QA-minded Engineer</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- Software developer with practical experience in **full-stack web development, embedded systems, and software quality assurance**.
-- Focused on **building functional, robust, and well-tested systems** using modern tools and frameworks.
-- Passionate about problem-solving, optimizing workflows, and delivering high-quality software solutions.
+- Software developer with practical experience in building **full-stack web/mobile applications, system design, and software quality assurance**.
+- Focused on **designing robust, scalable, and well-tested architectures**.
+- Passionate about **optimization, workflow automation, and high-quality software delivery**.
 
 ---
 
@@ -14,30 +14,32 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,python,c,cpp,git,linux,postman,arduino,docker,bash&theme=dark" height="60" alt="Skills" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/System%20Design-FF5722?style=for-the-badge" height="60" alt="System Design" />
 </p>
 
 ---
 
 ## 🔭 I’m Currently Working On
-- Full-stack projects using **React**, **Next.js**, and **Node.js** → building **responsive and scalable apps**.  
-- Embedded systems projects with **ESP32** → real-time video streaming and automation.
+- Scaling full-stack web/mobile platforms (**Tradeskul** & **PHOTODEX**) and designing modular python backend engines (**FDS**) for real-time applications.
 
 ## 🌱 I’m Currently Learning
-- Advanced **React patterns** and state management  
-- Backend API design & **secure authentication (JWT, RBAC)**  
-- **Software testing** and quality engineering best practices
+- Advanced **system design patterns, microservices, and secure distributed architectures**.
+- **Cloud orchestration, CI/CD**, and scalable **database optimization**.
 
 ---
 
 ## 🖥️ Projects
 
+- [Tradeskul](https://github.com/Siz09/ShareLearn) ([Web](https://www.tradeskul.com/)) – Educational platform for stock market trading, technical analysis, and financial market sharing  
+- [PHOTODEX](https://github.com/silicoretechnology/PHOTODEX) ([Web](https://www.photodex.live/)) – Full-stack web application for photo indexing and management  
+- [FDS](https://github.com/Siz09/FDS) – Python-based backend engine and processing core ("brain") powering PHOTODEX  
+- [Finance Tracker](https://github.com/Siz09/finance-tracker) – Personal finance management application for tracking transactions, analyzing budgets, and managing expenses  
+- [Krishi Mulya](https://github.com/Siz09/Krishi_Mulya) – Digital platform for real-time agricultural market price tracking to help farmers and buyers  
 - [MindEase](https://github.com/Siz09/MindEase) – Final-year project: Mental health support web app using React & Node.js  
-- [Advanced Summarizer](https://github.com/Siz09/Advanced-Summarizer) – AI-powered text summarization tool for efficient content review  
-- [PFT](https://github.com/Siz09/PFT) – Personal Fitness Tracker app with activity logging and progress analytics  
 - [Custom Event Management](https://github.com/Thepe314/CustomEventManagement) – Event management system with registration, scheduling, and notifications  
 - [SnakeRobot](https://github.com/Siz09/SnakeRobot) – ESP32-based snake robot controlled via servo motors and obstacle detection  
-- [AI ChatBot for Mental Health](https://github.com/Siz09/AI_ChatBot-for-Mental-health) – Chatbot for mental health support using AI/NLP techniques
-
+- [AI ChatBot for Mental Health](https://github.com/Siz09/AI_ChatBot-for-Mental-health) – Chatbot for mental health support using AI/NLP techniques  
 
 ---
 
